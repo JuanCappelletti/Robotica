@@ -1,4 +1,4 @@
-choise,robot,url
-1,6700/235/265,https://raw.githubusercontent.com/JuanCappelletti/Robotica/Curvas-de-carga/6700_235_265.csv
-2,6700/235/265/twist,e
-3,6700/235/265/leanID,r
+choise,robot,url,c1,c2,c3,c4,c5
+1,6700/235/265,https://raw.githubusercontent.com/JuanCappelletti/Robotica/Curvas-de-carga/6700_235_265.csv,210,235,250,265,275
+2,6700/235/265/twist,e,0,0,0,0,0
+3,6700/235/265/leanID,r,0,0,0,0,0
